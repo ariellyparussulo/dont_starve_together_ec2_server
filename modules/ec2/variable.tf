@@ -1,0 +1,11 @@
+variable "subnet_id" {}
+variable "key_name" {}
+variable "security_group" {}
+variable "ami" {}
+variable "cluster_name" {}
+variable "cluster_description" {}
+variable "cluster_intention" {}
+variable "cluster_password" {}
+variable "cluster_token_parameter" {}
+variable "instance_type" {}
+variable "max_players" {}
